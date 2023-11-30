@@ -18,7 +18,7 @@ subprojects {
     val GROUP: String by project
     val LIBRARY_VERSION: String by project
 
-    group = com.thomasm.kmmrecipeslib
+    group = com.thomasm:kmmrecipeslib
     version = 1
 }
 
