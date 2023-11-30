@@ -19,7 +19,7 @@ subprojects {
     val LIBRARY_VERSION: String by project
 
     group = com.thomasm.kmmrecipeslib
-    version = 0.0.1
+    version = 1
 }
 
 tasks.register<Delete>("clean") {
